@@ -2,7 +2,7 @@
     "metadata": {
         "global": {
              "Conventions": true,
-             "history": true"
+             "history": true
         },
         "variable": {
              "standard_name": true,
