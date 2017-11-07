@@ -1,0 +1,14 @@
+{
+    "metadata": {
+        "global": {
+             "Conventions": true,
+             "history": true"
+        },
+        "variable": {
+             "standard_name": true,
+             "long_name": true,
+             "units": true
+        }
+    }
+}
+
