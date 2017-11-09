@@ -45,7 +45,7 @@ def netcdf_md_extract(in_file,
 
 # Dump output in json
     with open(out_file, 'w') as fp:
-        json.dump(md_out, fp)
+        json.dump(md_out, fp, indent=2)
     fp.close()
 
 
